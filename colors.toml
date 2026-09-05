@@ -1,0 +1,35 @@
+mode = "dark"
+
+# Infrared for accents; lighter coral for small error text.
+accent = "#ff6b75"
+selection = "#e8c9a0"
+selection_background = "#e8c9a0"
+selection_foreground = "#1c1b19"
+muted = "#a79c8c"
+
+background = "#1c1b19"
+dark_background = "#161513"
+darker_background = "#11100f"
+lighter_background = "#302c28"
+
+foreground = "#e8dcc8"
+dark_foreground = "#a79c8c"
+light_foreground = "#cbbda8"
+bright_foreground = "#fff2dd"
+
+red = "#ff9585"
+yellow = "#efd08a"
+orange = "#f4b183"
+# A blue component separates success from coral errors for red weakness.
+green = "#85d9c3"
+cyan = "#a7dceb"
+blue = "#91bff2"
+magenta = "#ceb2ec"
+brown = "#c3a080"
+
+bright_red = "#ffb3a5"
+bright_yellow = "#ffe3a6"
+bright_green = "#a7efda"
+bright_cyan = "#c6f0fa"
+bright_blue = "#b6d7ff"
+bright_magenta = "#e5ceff"

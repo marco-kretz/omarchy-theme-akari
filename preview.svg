@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="900" viewBox="0 0 1440 900">
+<title>Akari — theme preview</title>
+<desc>Concept preview with charcoal, sand, infrared and teal terminal colors. Not a desktop screenshot.</desc>
+<image xlink:href="backgrounds/03-akari-fhd.png" width="1440" height="810" preserveAspectRatio="xMidYMid slice"/>
+<rect x="0" y="0" width="1440" height="42" rx="0" fill="#1c1b19"/>
+<text x="26" y="28" fill="#ff6b75" font-family="monospace" font-size="16">AKARI   /   01</text>
+<text x="1120" y="28" fill="#e8dcc8" font-family="monospace" font-size="16">18:42  ·  100%</text>
+<rect x="594" y="124" width="786" height="532" rx="12" fill="#ff6b75"/>
+<rect x="596" y="126" width="782" height="528" rx="10" fill="#1c1b19"/>
+<text x="624" y="162" fill="#a79c8c" font-family="monospace" font-size="14">TERMINAL</text>
+<text x="1175" y="162" fill="#e8dcc8" font-family="monospace" font-size="14">~/akari</text>
+<rect x="616" y="180" width="742" height="1" rx="0" fill="#302c28"/>
+<text x="628" y="218" fill="#e8dcc8" font-family="monospace" font-size="18">❯ git diff --stat</text>
+<text x="628" y="258" fill="#91bff2" font-family="monospace" font-size="18">  colors.toml      |  warm charcoal + infrared</text>
+<text x="628" y="296" fill="#85d9c3" font-family="monospace" font-size="18">+ added     readable highlights</text>
+<text x="628" y="332" fill="#ff9585" font-family="monospace" font-size="18">- removed   low-contrast red / green</text>
+<text x="628" y="382" fill="#85d9c3" font-family="monospace" font-size="18">PASS  23 text contrast checks</text>
+<text x="628" y="417" fill="#efd08a" font-family="monospace" font-size="18">WARN  unsaved changes</text>
+<text x="628" y="452" fill="#ff9585" font-family="monospace" font-size="18">ERROR connection refused</text>
+<rect x="624" y="479" width="548" height="32" rx="0" fill="#e8c9a0"/>
+<text x="630" y="502" fill="#1c1b19" font-family="monospace" font-size="18">Selected text stays clearly readable.</text>
+<text x="628" y="550" fill="#a79c8c" font-family="monospace" font-size="18">find: </text>
+<rect x="702" y="527" width="116" height="30" rx="0" fill="#efd08a"/>
+<text x="708" y="549" fill="#1c1b19" font-family="monospace" font-size="18">match 01</text>
+<rect x="840" y="527" width="116" height="30" rx="0" fill="#ff9585"/>
+<text x="846" y="549" fill="#1c1b19" font-family="monospace" font-size="18">match 02</text>
+<text x="628" y="601" fill="#ff6b75" font-family="monospace" font-size="18">❯ </text>
+<rect x="654" y="579" width="11" height="25" rx="0" fill="#fff2dd"/>
+<text x="60" y="712" fill="#fff2dd" font-family="monospace" font-size="56">AKARI</text>
+<text x="64" y="749" fill="#fff2dd" font-family="monospace" font-size="17">WARM SHADOWS. INFRARED LIGHT.</text>
+<rect x="0" y="810" width="1440" height="90" rx="0" fill="#1c1b19"/>
+<rect x="32" y="829" width="150" height="12" rx="3" fill="#ff6b75"/>
+<text x="32" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">ACCENT</text>
+<text x="32" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#ff6b75</text>
+<rect x="206" y="829" width="150" height="12" rx="3" fill="#ff9585"/>
+<text x="206" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">RED</text>
+<text x="206" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#ff9585</text>
+<rect x="380" y="829" width="150" height="12" rx="3" fill="#85d9c3"/>
+<text x="380" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">GREEN</text>
+<text x="380" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#85d9c3</text>
+<rect x="554" y="829" width="150" height="12" rx="3" fill="#efd08a"/>
+<text x="554" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">YELLOW</text>
+<text x="554" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#efd08a</text>
+<rect x="728" y="829" width="150" height="12" rx="3" fill="#91bff2"/>
+<text x="728" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">BLUE</text>
+<text x="728" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#91bff2</text>
+<rect x="902" y="829" width="150" height="12" rx="3" fill="#ceb2ec"/>
+<text x="902" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">MAGENTA</text>
+<text x="902" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#ceb2ec</text>
+<rect x="1076" y="829" width="150" height="12" rx="3" fill="#a7dceb"/>
+<text x="1076" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">CYAN</text>
+<text x="1076" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#a7dceb</text>
+<rect x="1250" y="829" width="150" height="12" rx="3" fill="#e8dcc8"/>
+<text x="1250" y="866" fill="#e8dcc8" font-family="monospace" font-size="12">FOREGROUND</text>
+<text x="1250" y="886" fill="#a79c8c" font-family="monospace" font-size="12">#e8dcc8</text>
+</svg>
