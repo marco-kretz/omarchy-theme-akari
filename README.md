@@ -52,15 +52,7 @@ Integration depends on the installed Omarchy version and app configuration. GTK 
 
 ## Wallpapers
 
-Three versions of the same wallpaper are included in `backgrounds/`:
-
-| File | Resolution |
-| --- | --- |
-| `01-akari-4k.png` | 3840 × 2160, selected first |
-| `02-akari-2k.png` | 2560 × 1440 |
-| `03-akari-fhd.png` | 1920 × 1080 |
-
-Cycle them with `omarchy theme bg next`.
+Only the 4K wallpaper (`backgrounds/01-akari-4k.png`, 3840 × 2160) is included, so the wallpaper selector shows one entry. It also scales to lower-resolution displays.
 
 ## Readability
 

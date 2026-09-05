@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1440" height="900" viewBox="0 0 1440 900">
 <title>Akari — theme preview</title>
 <desc>Concept preview with charcoal, sand, infrared and teal terminal colors. Not a desktop screenshot.</desc>
-<image xlink:href="backgrounds/03-akari-fhd.png" width="1440" height="810" preserveAspectRatio="xMidYMid slice"/>
+<image xlink:href="backgrounds/01-akari-4k.png" width="1440" height="810" preserveAspectRatio="xMidYMid slice"/>
 <rect x="0" y="0" width="1440" height="42" rx="0" fill="#1c1b19"/>
 <text x="26" y="28" fill="#ff6b75" font-family="monospace" font-size="16">AKARI   /   01</text>
 <text x="1120" y="28" fill="#e8dcc8" font-family="monospace" font-size="16">18:42  ·  100%</text>
