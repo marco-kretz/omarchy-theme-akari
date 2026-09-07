@@ -1,10 +1,12 @@
 mode = "dark"
 
 # Infrared for accents; lighter coral for small error text.
+# Selection is a dark warm tint: terminals that ignore selection_foreground
+# keep normal text readable on it.
 accent = "#ff6b75"
-selection = "#e8c9a0"
-selection_background = "#e8c9a0"
-selection_foreground = "#1c1b19"
+selection = "#3d3733"
+selection_background = "#3d3733"
+selection_foreground = "#fff2dd"
 muted = "#a79c8c"
 
 background = "#1c1b19"
